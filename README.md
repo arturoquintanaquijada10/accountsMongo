@@ -20,7 +20,6 @@ docs :  https://docs.mongodb.com
 
 help: 
 
-elp: 
 
 mongod --replSet rs1 --logpath "1.log" --dbpath /data/rs1 --port 27020 --bind_ip 127.0.0.1
 
