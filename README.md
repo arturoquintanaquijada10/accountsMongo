@@ -8,7 +8,7 @@ API Rest for Accounts management.
 - **SPRING-BOOT : 	2.0.4.RELEASE**
 - **SPRING-DATA : 	2.0.9.RELEASE**
 - **MONGODB 4.0  : Allow transacctions**
-- **SWAGGER  :  http://localhost:8080/swagger-ui.html**
+- **API documentation with SWAGGER  :  http://localhost:8080/swagger-ui.html**
 - **JUNIT TEST included**
 
 
